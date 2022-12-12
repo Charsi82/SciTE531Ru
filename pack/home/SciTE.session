@@ -1,0 +1,27 @@
+# SciTE session file
+
+position.left=465
+position.top=160
+position.width=984
+position.height=752
+position.maximize=0
+
+
+toolbar.visible=1
+tabbar.visible=1
+statusbar.visible=1
+view.whitespace=1
+view.eol=0
+view.indentation.guides=1
+line.margin.visible=1
+split.vertical=0
+wrap=1
+output.wrap=1
+magnification=0
+print.magnification=0
+sidebar.show=1
+sidebar.active.tab=1
+sidebar.position=right
+sidebar.win=0
+output.code.page=0
+highlighting.identical.text=1
